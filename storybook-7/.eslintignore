@@ -1,0 +1,4 @@
+!./.storybook
+.turbo/
+node_modules/
+storybook-static/

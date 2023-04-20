@@ -1,0 +1,8 @@
+{
+    auto_https off
+}
+
+:3003 {
+    metrics /metrics
+    file_server
+}
